@@ -1,4 +1,4 @@
-# ¿Que es el Diseño Gnerativo?
+# ¿Que es el Diseño Generativo?
 
 Diseño Generativo: En palabras simples, el diseño generativo es un enfoque creativo en el que se utilizan algoritmos y reglas definidas para generar resultados de diseño que evolucionan de manera autónoma o semiautónoma. Este proceso permite crear soluciones originales y adaptativas basadas en condiciones específicas.
 
