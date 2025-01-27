@@ -20,4 +20,4 @@ function printCircles (x) {
 }
 ```
 
-![image](https://github.com/user-attachments/assets/6de15bd4-b806-43e0-a591-34d0a422a337)
+![image](../../../../assets/act9.png)
