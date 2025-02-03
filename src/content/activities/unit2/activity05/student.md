@@ -62,6 +62,20 @@ function sendData(char) {
 
 ```
 
+``` py
+from microbit import *
+import utime
+
+while True:
+    if uart.any(): 
+        data = uart.read(1) 
+        if data:
+            char = data.decode('utf-8')  
+            display.show(char)  
+            utime.sleep(1)
+            display.clear()  
+```
+
  ## Documentación del proceso:
   
  * Investigación: Se exploró el uso del puerto serial en micro:bit para recibir caracteres y mostrarlos en la pantalla LED.
