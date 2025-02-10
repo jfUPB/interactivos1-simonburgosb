@@ -60,3 +60,8 @@ while True:
             sleep(500)
             display.clear()
 ```
+## Documentación
+1.	El usuario presiona un botón en la interfaz web.
+2.	Se envía un carácter ('A' o 'B') al micro:bit a través del puerto serial.
+3.	El micro:bit recibe el carácter y reproduce un sonido según lo recibido.
+4.	La interfaz web también muestra el carácter recibido en pantalla.
