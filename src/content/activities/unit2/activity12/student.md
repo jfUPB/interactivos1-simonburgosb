@@ -65,3 +65,4 @@ def loop():
 
 loop()
 ```
+![Texto alternativo](../../../../assets/act11_2.png)
