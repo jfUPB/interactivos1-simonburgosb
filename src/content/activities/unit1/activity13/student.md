@@ -1,0 +1,4 @@
+# Refleccion de la unidad
+
+El proceso de aprendizaje durante esta unidad ha sido desafiante e inspirador. Lo que me resultó más fácil fue comprender los conceptos básicos del diseño generativo, como el uso de algoritmos y parámetros, gracias a las explicaciones claras y ejemplos visuales. Sin embargo, la parte más difícil fue aplicar estos conceptos a casos prácticos, especialmente al imaginar cómo integrar sistemas físicos interactivos con diseño generativo en experiencias reales.
+Para superar las dificultades, utilicé estrategias como la investigación adicional en línea e incluso la visualización de videos para obtener un mayor bagaje y poder aplicar estos conceptos en la programación. Otra complejidad fue el manejo inicial del micro:bit ya que es algo nuevo para mí. Pero para esto hice uso de la posibilidad de preguntarle al profesor encargado. 
