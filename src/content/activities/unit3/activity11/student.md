@@ -1,0 +1,3 @@
+# Como voy progresando? 
+
+Los conceptos que tenia claros desde ante eran los de utilizar funciones en pythin para ser llamadas en while. El enviar y recibir datos desde micropython y p5, el uso de constructores. El tema que al inicio no entendí tanto era el uso de máquina de estado, pero con la práctica de la bomba lo entendí a la claridad. Ahorita mismo no sabría decir cual tema me toma dificultad, ay que siento que con lo que aplique en la unidad logre un buen aprendizaje. Sin embargo, las estrategias que utilizo son leer documentación consultar en youtube para una ayuda mas visual y con ejemplos concretos o preguntarle al profe. A estas estrategias le dedicaría 1 hora. 
