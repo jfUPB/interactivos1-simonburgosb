@@ -76,3 +76,10 @@ socket.on('winner', (player) => {
 </html>
 
 ```
+
+## Resumen de la modificación creativa:
+Creé un juego simple llamado "ClickWar", donde dos jugadores compiten haciendo clic en sus pantallas. Cada jugador ve su propio puntaje y el del oponente en tiempo real, utilizando Node.js, Express y Socket.IO para la comunicación entre las páginas. Al alcanzar 20 clics, el juego se reinicia y muestra un mensaje de victoria.
+## Reflexión sobre el proceso de modificación:
+* Lo fácil: Fue sencillo implementar la lógica básica del conteo de clics y actualizar la interfaz en tiempo real con Socket.IO.
+* Lo difícil: La sincronización entre los dos clientes, asegurando que ambos jugadores pudieran ver el puntaje del otro en tiempo real sin problemas de conexión o retrasos.
+* Lo aprendido: Aprendí a gestionar la comunicación bidireccional entre los clientes y el servidor, usando eventos como socket.emit() y socket.broadcast.emit() para transmitir datos en tiempo real. También entendí mejor cómo manejar la lógica del juego en el servidor para asegurar que ambas partes tengan la misma información sincronizada.
