@@ -1,0 +1,5 @@
+# Reflexion de la Unidad
+
+En esta unidad aprendí a utilizar maquinas de estados y crear clases en Python algo que jamás había hecho, también entendí como se pueden usar variables statics de forma global en un código. Aprendí como poder hacer display tanto de numero como letras, además de la utilización de forma optimizada de un código que dependa de ciertos estados o acciones. Ademas pude utilizar todos los botones, el acelerómetro, poner imágenes y reproducir sonidos. Por último, aprendí a poder hacer esperar o corrutinas como en unity. 
+
+En esta unidad tuve que usar mucho el tema de leer la documentación ya que gran parte de las metodologías anteriormente mencionadas no eran de mi conocimiento sin embargo entender y leer la documentación me permito poder optimizar códigos de forma útil. Además aprendí sobre el uso de la CPU y como esta se ve afectada por los códigos. Algunos desafíos eran los errores “sin sentido” que yo veía en el código de micropython ya que no entendí porque se presentaban, pero con ayuda del profe, documentación y chatGPT pude solucionarlos. 
